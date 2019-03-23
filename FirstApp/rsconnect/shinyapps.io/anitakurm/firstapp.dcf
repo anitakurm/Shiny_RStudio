@@ -1,0 +1,12 @@
+name: firstapp
+title:
+username:
+account: anitakurm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 721089
+bundleId: 1879859
+url: https://anitakurm.shinyapps.io/firstapp/
+when: 1550339941.46221
+asMultiple: FALSE
+asStatic: FALSE
